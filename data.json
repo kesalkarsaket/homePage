@@ -1,0 +1,327 @@
+{
+  "path": "Home",
+  "data": [
+    {
+      "sub-path": null,
+      "label": "Search for - SB",
+      "sub_label": "NA ",
+      "keys": {
+        "SB_1": {
+          "bankname": "ICICI Bank",
+          "show": "SB, SB_1, SB_2, SB_3, SB_4, SB_5, SB_6, SB_SV1, SB_SV2, SB_SVC1",
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "NA"
+        },
+        "SB_2": {
+          "bankname": "Bluechip",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "NA"
+        },
+        "SB_3": {
+          "bankname": "Nippon",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "NA"
+        },
+        "SB_4": {
+          "bankname": "SGB",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "NA"
+        },
+        "SB_5": {
+          "bankname": "Help Button",
+          "show": null,
+          "sub_value": "SB_SV1 - Chat with US",
+          "sub_value_category": "SB_SVC1 - FAQ",
+          "icons": "SB_5_Icn1, SB_SV1_Icn1, SB_SVC1_Icn1"
+        },
+        "SB_6": {
+          "bankname": "Bell Button",
+          "show": null,
+          "sub_value": "SB_SV2 - My Notifications",
+          "sub_value_category": "NA",
+          "icons": "SB_6_Icn1,"
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Hi Vikas, - GreetingKey(GK)",
+      "sub_label": "NA",
+      "keys": {
+        "NA": {
+          "bankname": "NA",
+          "show": "GK",
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "NA"
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Portfolio Value - PV",
+      "sub_label": "NA",
+      "keys": {
+        "NA": {
+          "bankname": "NA",
+          "show": "PV",
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "PV_Icn1"
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Market Today - MT",
+      "sub_label": "NA",
+      "keys": {
+        "MT_NIF": {
+          "bankname": "NIFTY",
+          "show": "MT, MT_NIF, MT_SEN, MT_BANNIF",
+          "sub_value": null,
+          "sub_value_category": null,
+          "icons": null
+        },
+        "MT_SEN": {
+          "bankname": "SENSEX",
+          "show": null,
+          "sub_value": null,
+          "sub_value_category": null,
+          "icons": null
+        },
+        "MT_BANNIF": {
+          "bankname": "BANKNIFTY",
+          "show": null,
+          "sub_value": null,
+          "sub_value_category": null,
+          "icons": null
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Discover Products - DP",
+      "sub_label": "All your financial needs at one place - DP_S1",
+      "keys": {
+        "DP_1": {
+          "bankname": "Stocks",
+          "show": "DP, DP_1, DP_2, DP_3, DP_4, DP_5, DP_6, DP_7, DP_8, DP_9, DP_10, DP_11, DP_12, DP_13, ",
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn1"
+        },
+        "DP_2": {
+          "bankname": "Futures & Options",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn2"
+        },
+        "DP_3": {
+          "bankname": "Mutual Funds",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn3"
+        },
+        "DP_4": {
+          "bankname": "ETFs",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn4"
+        },
+        "DP_5": {
+          "bankname": "Commodity",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn5"
+        },
+        "DP_6": {
+          "bankname": "Currency",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn6"
+        },
+        "DP_7": {
+          "bankname": "FD/Bonds",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn7"
+        },
+        "DP_8": {
+          "bankname": "Loans",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn8"
+        },
+        "DP_9": {
+          "bankname": "Life Insurance",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn9"
+        },
+        "DP_10": {
+          "bankname": "General Insurance",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn10"
+        },
+        "DP_11": {
+          "bankname": "Masters Of The Street",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn11"
+        },
+        "DP_12": {
+          "bankname": "Global Invest",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn12"
+        },
+        "DP_13": {
+          "bankname": "NPS",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "DP_Icn13"
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Exclusive Offers for you - EO",
+      "sub_label": "NA",
+      "keys": {
+        "EO_1": {
+          "bankname": "Loan Offers",
+          "show": "EO, EO_1, EO_2, EO_3, EO_4, EO_5, EO_6",
+          "sub_value": "EO_SV1 - Apply for Loans & Credit Cards seamlessely!",
+          "sub_value_category": "EO_SVC1 - Check Eligiblity",
+          "icons": "EO_Icn1"
+        },
+        "EO_2": {
+          "bankname": "Term Insurance",
+          "show": null,
+          "sub_value": "EO_SV2 - Get upto 5% Lifetime Online Discount!",
+          "sub_value_category": "EO_SVC2 - Buy Now",
+          "icons": "EO_Icn2"
+        },
+        "EO_3": {
+          "bankname": "Margin Funding",
+          "show": null,
+          "sub_value": "EO_SV3 - Never miss a good investment opportunity",
+          "sub_value_category": "EO_SVC3 - Invest Now",
+          "icons": "EO_Icn3"
+        },
+        "EO_4": {
+          "bankname": "New Fud Offers",
+          "show": null,
+          "sub_value": "EO_SV4 - Invest in New Fund Offerings from mutual fund houses",
+          "sub_value_category": "EO_SVC4 - Invest Now",
+          "icons": "EO_Icn4"
+        },
+        "EO_5": {
+          "bankname": "Global Stocks, ETF & Bonds",
+          "show": null,
+          "sub_value": "EO_SV5 - Make your money grow in global market",
+          "sub_value_category": "EO_SVC5 - Invest Now",
+          "icons": "EO_Icn5"
+        },
+        "EO_6": {
+          "bankname": "Option Strategies",
+          "show": null,
+          "sub_value": "EO_SV6 - Trade popular option strategies in few clicks!",
+          "sub_value_category": "EO_SVC6 - Trade Now",
+          "icons": "EO_Icn6"
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Research ideas for you - RI",
+      "sub_label": "Recommendation as per your Investment/Trading needs - RI_S1",
+      "keys": {
+        "RI_1": {
+          "bankname": "Trading Ideas",
+          "show": "RI, RI_S1, RI_1, RI_2, RI_3, RI_4, RI_5",
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "RI_Icn1"
+        },
+        "RI_2": {
+          "bankname": "Investment Ideas",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "RI_Icn2"
+        },
+        "RI_3": {
+          "bankname": "Mutual Fund Picks",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "RI_Icn3"
+        },
+        "RI_4": {
+          "bankname": "One Click Stocks",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "RI_Icn4"
+        },
+        "RI_5": {
+          "bankname": "One Click Mutual Funds",
+          "show": null,
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "RI_Icn5"
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Today's Pick - TP",
+      "sub_label": "NA",
+      "keys": {
+        "TP1": {
+          "bankname": "Any one research card shown here from backend",
+          "show": "TP, TP1",
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "NA"
+        }
+      }
+    },
+    {
+      "sub-path": null,
+      "label": "Learn while the market is on break iLearn - iL_Banr",
+      "sub_label": "NA",
+      "keys": {
+        "iL_Btn": {
+          "bankname": "iLearn",
+          "show": "iL_Banr, iL_Btn",
+          "sub_value": "NA",
+          "sub_value_category": "NA",
+          "icons": "NA"
+        }
+      }
+    }
+  ]
+}
